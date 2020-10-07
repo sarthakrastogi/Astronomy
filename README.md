@@ -1,2 +1,2 @@
 # Astronomy
-Co,puter Vision for Astronomy
+Computer Vision for Astronomy
