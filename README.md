@@ -1,2 +1,2 @@
-# Astronomy
-Computer Vision for Astronomy
+# Astronomy and Physics
+Python notebooks for some experiments.
